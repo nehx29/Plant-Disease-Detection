@@ -26,9 +26,6 @@ Upload your dataset in folders:
 2. Upload dataset ZIP
 3. Run all cells
 
-## 📸 Sample Input
-(Add your image here)
-
 ## 📊 Output
 - Prediction
 - Confidence
