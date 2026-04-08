@@ -15,7 +15,7 @@ AI-based plant disease detection system using Intel oneAPI.
 - TensorFlow / Scikit-learn
 - Intel oneAPI (sklearnex)
   
-Plant-Disease-Detection/
+## Plant-Disease-Detection/
 │
 ├── ExplainCrop_AI.ipynb
 ├── README.md
