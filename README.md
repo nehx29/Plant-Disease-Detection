@@ -14,19 +14,11 @@ AI-based plant disease detection system using Intel oneAPI.
 - Python
 - TensorFlow / Scikit-learn
 - Intel oneAPI (sklearnex)
-
-## 📂 Dataset
-Upload your dataset in folders:
-- Class1/
-- Class2/
-- Class3/
-
-## ▶️ How to Run
-1. Open notebook in Google Colab
-2. Upload dataset ZIP
-3. Run all cells
-
-## 📊 Output
-- Prediction
-- Confidence
-- Recommendation
+  
+Plant-Disease-Detection/
+│
+├── ExplainCrop_AI.ipynb
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── results/
